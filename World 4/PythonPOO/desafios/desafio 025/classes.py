@@ -26,7 +26,6 @@ class Caminhao(Transporte):
 
     def __str__(self):
         if self.distancia >= 50:
-
             self.frete = Caminhao.fator * self.distancia
             return str(self.frete)
         else:

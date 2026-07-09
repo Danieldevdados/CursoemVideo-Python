@@ -10,7 +10,7 @@ def main():
     tabela.add_column("Tipo")
     tabela.add_column("Frete")
     for c in range(3):
-        tabela.add_row(f"{distancia} Km", f"{valores[c].__class__.__name__}", f"R${valores[c] }")
+        tabela.add_row(f"{distancia} Km", f"{type(valores[c]).__name__}", f"R${valores[c] }")
     print(tabela)
 
 
