@@ -5,147 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73147d4b-ff05-4024-8472-a0a5f46140eb" name="Changes" comment="Recuperação dos exercícios">
-      <change afterPath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 028/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 028/desafio028.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 029/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 029/classes029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 030/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 030/classes30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 031/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 031/classes31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 032/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 032/classes32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/World 4/PythonPOO/exercicios/ex008/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/World 4/PythonPOO/exercicios/ex008/ex008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/World 4/PythonPOO/exercicios/ex009/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/World 4/PythonPOO/exercicios/ex009/ex009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/World 4/PythonPOO/exercicios/ex010/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/World 4/PythonPOO/exercicios/ex010/ex010.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex00.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex00.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex001.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex0014.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex0014.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex004.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex004.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex005.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex005.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex006.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex006.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex007.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex007.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex008.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex008.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex009.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex009.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex010.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex010.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex011.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex011.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex012.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex012.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex013.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex013.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex015.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex015.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex016.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex016.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex017.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex017.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex018.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex018.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex019.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex019.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex020.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex020.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex021.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex021.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex022.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex022.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex023.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex023.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex024.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex024.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex025.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex025.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex026.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex026.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex027.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex027.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex028.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex028.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex029.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex029.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex030.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex030.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex031.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex031.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex032.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex032.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex033.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex033.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex034.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex034.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 1/ex035.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 1/ex035.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex036.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex036.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex037.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex037.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex038.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex038.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex039.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex039.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex040.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex040.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex041.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex041.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex042.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex042.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex043.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex043.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex044.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex044.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex045.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex045.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex046.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex046.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex047.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex047.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex048.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex048.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex049.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex049.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex050.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex050.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex051.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex051.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex052.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex052.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex053.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex053.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex054.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex054.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex055.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex055.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex056.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex056.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex057.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex057.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex058.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex058.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex059.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex059.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex060.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex060.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex061.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex061.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex062.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex062.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex063.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex063.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex064.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex064.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex065.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex065.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex066.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex066.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex067.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex067.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex068.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex068.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex069.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex069.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex070.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex070.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 2/ex071.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 2/ex071.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/Bancodepessoas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/Bancodepessoas.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/dados.txt" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/dados.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex0100.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex0100.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex0103.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex0103.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex0107.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex0107.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex0111.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex0111.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex0111/utilidadesCeV/dado/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex0111/utilidadesCeV/dado/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex0111/utilidadesCeV/moeda/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex0111/utilidadesCeV/moeda/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex072.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex072.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex073.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex073.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex074.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex074.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex075.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex075.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex076.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex076.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex077.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex077.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex078.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex078.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex079.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex079.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex080.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex080.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex081.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex081.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex082.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex082.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex083.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex083.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex084.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex084.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex085.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex085.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex086.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex086.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex088.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex088.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex089.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex089.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex090.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex090.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex091.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex091.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex092.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex092.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex093.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex093.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex094.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex094.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex095.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex095.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex096.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex096.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex097.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex097.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex098.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex098.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex099.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex099.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex101.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex101.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex102.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex102.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex104.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex104.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex105.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex105.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex106.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex106.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex108.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex108.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex109.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex109.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex110.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex110.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex112.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex112.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex113.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex113.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex113/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex113/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex114.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex114.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex115.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex115.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex115/lib/arquivo/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex115/lib/arquivo/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 3/ex115/lib/interface/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 3/ex115/lib/interface/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 025/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 025/__main__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 025/classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 025/classes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 027/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 027/__main__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 027/personagem_rpg.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 027/personagem_rpg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 033/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 033/__main__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,6 +13,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" show_ignored="true" />
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="1772" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -176,18 +39,18 @@
     </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Danieldevdados"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Danieldevdados&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Danieldevdados/CursoemVideo-Python.git",
-    "accountId": "4f819a06-0022-4d39-8d8d-7416c4df3fd3"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Danieldevdados/CursoemVideo-Python.git&quot;,
+    &quot;accountId&quot;: &quot;4f819a06-0022-4d39-8d8d-7416c4df3fd3&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -206,50 +69,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.016.executor": "Run",
-    "Python.017.executor": "Run",
-    "Python.018.executor": "Run",
-    "Python.019.executor": "Run",
-    "Python.020.executor": "Run",
-    "Python.021.executor": "Run",
-    "Python.022.executor": "Run",
-    "Python.__main__.executor": "Run",
-    "Python.classes31.executor": "Run",
-    "Python.e9e.executor": "Run",
-    "Python.ex001.executor": "Run",
-    "Python.ex002.executor": "Run",
-    "Python.ex003.executor": "Run",
-    "Python.ex004.executor": "Run",
-    "Python.ex021.executor": "Run",
-    "Python.ex102.executor": "Run",
-    "Python.ex106.executor": "Run",
-    "Python.ex115.executor": "Run",
-    "Python.rich001.executor": "Run",
-    "Python.rich002.executor": "Run",
-    "Python.rich003.executor": "Run",
-    "Python.rich005.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "git.auto.fetch.suggestion.counter": "1",
-    "last_opened_file_path": "C:/Users/bapti/PycharmProjects/CursoemVideo/World 4/PythonPOO/desafios",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "ml.llm.AcpAgentsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.019.executor&quot;: &quot;Run&quot;,
+    &quot;Python.020.executor&quot;: &quot;Run&quot;,
+    &quot;Python.021.executor&quot;: &quot;Run&quot;,
+    &quot;Python.022.executor&quot;: &quot;Run&quot;,
+    &quot;Python.__main__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classes31.executor&quot;: &quot;Run&quot;,
+    &quot;Python.e9e.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex021.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex102.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex106.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex115.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rich001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rich002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rich003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rich005.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;1&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bapti/PycharmProjects/CursoemVideo/World 4/PythonPOO/desafios&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.AcpAgentsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\bapti\PycharmProjects\CursoemVideo\World 4\PythonPOO\desafios" />
