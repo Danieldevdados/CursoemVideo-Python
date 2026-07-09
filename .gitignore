@@ -1,0 +1,13 @@
+# PyCharm
+.idea/
+.idea_backup/
+
+# Ambiente virtual
+.venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos pessoais
+commit.txt
