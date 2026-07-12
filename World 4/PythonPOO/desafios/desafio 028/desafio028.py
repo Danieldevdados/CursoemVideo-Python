@@ -5,10 +5,10 @@ class Termostato:
 
 
     @property
-    def ftemperatura(self):
-        return f"{self.__temperatura} °C"
+    def temperatura(self):
+        return self.__temperatura
 
-    @ftemperatura.setter
+    @temperatura.setter
     def temperatura(self,valor):
         if valor < 16:
             self.__temperatura = 16
@@ -20,3 +20,8 @@ class Termostato:
                 self.__temperatura = valor
             else:
                 raise ValueError(f"temperatura de {valor} °C invalida")
+
+
+    @property
+    def ftemperatura(self):
+        return f"{self.__temperatura:.1f} °C"

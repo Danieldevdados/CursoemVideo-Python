@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73147d4b-ff05-4024-8472-a0a5f46140eb" name="Changes" comment="Recuperação dos exercícios">
-      <change beforePath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 033/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 033/__main__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 028/desafio028.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 028/desafio028.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +55,65 @@
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.00000173095542" />
+      <entry key="MS500" value="1.07041370178108" />
+      <entry key="S2" value="1.5151269768100373" />
+      <entry key="S5" value="1.7669476439866538" />
+      <entry key="S10" value="1.875755470429191" />
+      <entry key="S30" value="1.9567407813473139" />
+      <entry key="S60" value="1.9781394901991542" />
+      <entry key="M2" value="1.9957028243134534" />
+      <entry key="M5" value="2.403139370301695" />
+      <entry key="M10" value="3.661947937602051" />
+      <entry key="M15" value="4.675061109308281" />
+      <entry key="M30" value="6.319444894432918" />
+      <entry key="H1" value="7.496110558382676" />
+      <entry key="H2" value="8.20188450844585" />
+      <entry key="H4" value="8.588665295171714" />
+      <entry key="D1" value="8.929672867998136" />
+      <entry key="W1" value="8.989908995924202" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.5505934246654384E-5" />
+      <entry key="MS500" value="0.14973205405854254" />
+      <entry key="S2" value="1.002494862982947" />
+      <entry key="S5" value="1.5115524496759813" />
+      <entry key="S10" value="1.737614842004146" />
+      <entry key="S30" value="1.908140774541244" />
+      <entry key="S60" value="1.953504525849818" />
+      <entry key="M2" value="1.9832732944679727" />
+      <entry key="M5" value="2.3972867558121114" />
+      <entry key="M10" value="3.6574130859886678" />
+      <entry key="M15" value="4.6710983436683104" />
+      <entry key="M30" value="6.316660381465079" />
+      <entry key="H1" value="7.494419979077431" />
+      <entry key="H2" value="8.200948020069761" />
+      <entry key="H4" value="8.588171818575862" />
+      <entry key="D1" value="8.92958689202185" />
+      <entry key="W1" value="8.98989661922299" />
+    </decayedShown>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
