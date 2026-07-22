@@ -1,11 +1,11 @@
 from classes30 import *
-from rich import inspect
+
 
 
 def main():
     c = Credencial()
-    c.senha = "CeVss"
-    c.validar("CeVss")
+    c.senha = "CeVss000"
+    c.validar("CeVss000")
 
 
 

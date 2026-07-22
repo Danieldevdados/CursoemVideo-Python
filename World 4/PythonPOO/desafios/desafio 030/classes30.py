@@ -18,8 +18,10 @@ class Credencial:
 
     @senha.setter
     def senha(self,senha):
+        if len(senha) >= 8:
             self.__hash = hashlib.sha256(senha.encode()).hexdigest()
-
+        else:
+            raise ValueError("Senha maior que 8 caracteres!")
 
     def validar(self, chave):
         hash_login = hashlib.sha256(chave.encode()).hexdigest()

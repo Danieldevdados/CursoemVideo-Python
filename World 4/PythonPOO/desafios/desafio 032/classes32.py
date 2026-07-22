@@ -1,10 +1,10 @@
 from hashlib import sha256
-from pwinput import pwinput
+
 
 
 class ContaBancaria:
 
-    def __init__(self, id, nome, saldo=100, chave=None) -> None:
+    def __init__(self, id: int, nome: str, saldo: float=100, chave=None) -> None:
         self._titular:str = nome
         self._id:int = id
         self.__saldo:float = saldo
@@ -18,7 +18,11 @@ class ContaBancaria:
 
     #Pede a senha para o usuario
     def pede_senha(self) -> str:
-        senha = pwinput(prompt="Senha: ", mask="*")
+        from pwinput import pwinput
+        while true:
+            senha = str(pwinput("Senha: ")).strip()
+            if len(senha) >= 6:
+                break
         senha = self.criptografar(senha)
         return senha
     
@@ -44,7 +48,7 @@ class ContaBancaria:
         else:
             chave = self.criptografar(chave)
 
-        if chave == self.__hash:
+        if self.validar_senha(chave):
             print("Senha correta")
             if valor > self.__saldo:
                 print("O valor de saque desejad não esta disponivel!")
@@ -68,7 +72,7 @@ class ContaBancaria:
     @nome.setter
     def nome(self, nome):
         chave = self.pede_senha()
-        if chave == self.__hash:
+        if self.validar_senha(chave):
             self._titular = nome
         else:
             print("senha incorreta")
